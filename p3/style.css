@@ -1,0 +1,15 @@
+h1{
+  font-size: 40px;
+  color: rgb(10, 10, 138);
+}
+  table{
+    margin-bottom: 20px;
+  }
+  table, 
+  tr,
+  th,
+  td{
+    border: 1px solid #4a4646;
+    border-collapse: collapse;
+    padding: 10px;
+  }
