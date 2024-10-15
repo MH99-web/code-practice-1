@@ -13,3 +13,17 @@ h1{
     border-collapse: collapse;
     padding: 10px;
   }
+  div{
+    background: rgb(146, 145, 165);
+    padding: 10px 20px;
+    margin-bottom: 20px;
+  }
+  .two{
+    background: aqua;
+  }
+  #one{
+    background: greenyellow;
+  }
+  iframe{
+    padding: 10px;
+  }

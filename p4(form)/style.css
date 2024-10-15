@@ -1,0 +1,9 @@
+label {
+  display: block;
+}
+.one label{
+  display: inline-block;
+}
+video{
+  width: 500px;
+}
